@@ -190,4 +190,4 @@ tab
 
 #### Markdown扩展语法
 
-![image-20201001224627832]((https://github.com/alanlou2020/assets/blob/master/image-20201001224627832.png)
+![image-20201001224627832](https://github.com/alanlou2020/assets/blob/master/image-20201001224627832.png)
