@@ -186,7 +186,7 @@ tab
 
 #### 插入图片设置
 
-![image-20201001224128871](assets/Typora常用快捷键/image-20201001224128871.png)
+![image-20201001224128871](https://github.com/alanlou2020/assets/blob/master/image-20201001224128871.png)
 
 #### Markdown扩展语法
 
