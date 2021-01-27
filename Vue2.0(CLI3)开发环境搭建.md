@@ -51,7 +51,10 @@ git push
 ~~~powershell
 git init
 git remote add origin https://github.com/alanlou2020/supermall.git
-git push -u origin master
+git pull --rebase origin main
+git add .
+git commit -m '初始化项目'
+git push
 ~~~
 
 ### 三、安装npm(因为复制的时候并没有复制node_modules文件夹，使用方法二的无需执行)，命令如下：
