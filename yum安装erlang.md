@@ -55,3 +55,17 @@ yum install -y erlang
 yum install erlang-24.0-1.el7.aarch64
 ```
 
+##### 8、下载erlang安装包(rpm)
+
+> 8.1、语法：yumdownloader 软件名
+
+```shell
+yumdownloader erlang
+```
+
+> 8.2、语法：yumdownloader 软件名 --resolve --destdir=目录名
+
+```shell
+yumdownloader erlang --resolve --destdir=/opt/rabbitmq/erlang
+```
+
